@@ -1,0 +1,3 @@
+com\example\certificatesapp\CertificatesAppApplicationTests.class
+com\example\certificatesapp\service\EmailServiceTest.class
+com\example\certificatesapp\service\CertificateServiceTest.class

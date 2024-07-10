@@ -1,0 +1,11 @@
+com\example\certificatesapp\repository\CertificateRepository.class
+com\example\certificatesapp\config\MailConfig.class
+com\example\certificatesapp\controller\CustomErrorController.class
+com\example\certificatesapp\config\JmsConfig.class
+com\example\certificatesapp\model\Certificate.class
+com\example\certificatesapp\service\CertificateService.class
+com\example\certificatesapp\controller\HomeController.class
+com\example\certificatesapp\CertificatesAppApplication.class
+com\example\certificatesapp\service\EmailService.class
+com\example\certificatesapp\controller\CertificateController.class
+com\example\certificatesapp\controller\EmailController.class
